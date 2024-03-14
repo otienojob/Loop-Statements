@@ -1,6 +1,6 @@
 #Prime Numbers between 1 and 100 Using While Statement
 
-num_input=0
+num_input=1
 
 print((2**6)*'..')
 print("Prime numbers between 1 and 100: \n")
